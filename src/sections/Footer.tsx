@@ -155,16 +155,16 @@ const Footer = () => {
                     className="flex items-center gap-2 text-white/80 hover:text-white transition-colors"
                   >
                     <Mail className="w-4 h-4" />
-                    contact@drjaveriafitness.com
+                    drjavariahanif@gmail.com
                   </a>
                 </li>
                 <li>
                   <a 
-                    href="tel:+1234567890"
+                    href="tel:+923124173769"
                     className="flex items-center gap-2 text-white/80 hover:text-white transition-colors"
                   >
                     <Phone className="w-4 h-4" />
-                    +1 (234) 567-890
+                    +92 312 4173 769
                   </a>
                 </li>
                 <li className="flex items-center gap-2 text-white/80">
