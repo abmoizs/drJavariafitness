@@ -208,7 +208,7 @@ const Footer = () => {
           <div className="border-t border-white/20 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center gap-4">
               <p className="text-white/60 text-sm">
-                © 2025 Dr. Javeria Fitness. All Rights Reserved
+                © 2026 Dr. Javeria Fitness. All Rights Reserved
               </p>
               <div className="flex gap-6 text-sm">
                 <button className="text-white/60 hover:text-white transition-colors">
